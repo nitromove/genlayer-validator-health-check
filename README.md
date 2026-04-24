@@ -16,10 +16,10 @@ Usage
 python check_validators.py
 
 # Check specific validators
-python check_validators.py http://validator1.example.com:9151 http://validator2.example.com:9151
+python check_validators.py 
 
 # Continuous monitoring (every 30 seconds)
-python check_validators.py http://validator1.example.com:9151 --watch
+python check_validators.py 
 Output
 Validator status (online/offline)
 RPC responsiveness
